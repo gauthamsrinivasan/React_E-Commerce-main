@@ -168,6 +168,11 @@ const Checkout = () => {
                         <br />
                         <select className="form-select" id="state" required>
                           <option value="">Choose...</option>
+                          <option>Tamil Nadu</option>
+                          <option>Kerala</option>
+                          <option>Karnataka</option>
+                          <option>Maharashtra</option>
+                          <option>Delhi</option>
                           <option>Punjab</option>
                         </select>
                         <div className="invalid-feedback">
